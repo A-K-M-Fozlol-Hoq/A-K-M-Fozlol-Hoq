@@ -2,8 +2,7 @@
 #### JavaScript - ReactJS - NodeJS - Python
 ![JavaScript - ReactJS - NodeJS - Python](https://media-exp1.licdn.com/dms/image/C5616AQHTINIiG1ouQg/profile-displaybackgroundimage-shrink_350_1400/0/1630754076090?e=1641427200&v=beta&t=wBWwPNTcozhSPKgoKkmpP8rdMzvHWFrKAMuz_rVs1Do)
 
-You might see me jumping, climbing buildings, and stopping trains. But nobody pays me a dime for that work. That's why I am learning and mastering web development. I will not stop until I become the Web Development Hero.
-
+ Hi there, this is A.K.M Fozlol Hoq, You might see me jumping, climbing buildings, and stopping trains. But nobody pays me a dime for that work. That's why I am learning and mastering web development. I am well experienced at MERN stack, Socket IO, SCSS, Bootstrap, Tailwind CSS,  Python, AWS, MYSQL, and C++. I have also a strong grip on C, and JAVA, programming languages. My hobby is reading (audio) books, I like to update myself every day to be a better human.
 Skills: HTML / CSS/ JAVASCRIP T/ REACTJS/ NODEJS/ PYTHON/ BOOTSTRAP/ TAILWINDCSS/SASS/ SOCKET IO/ MATERIAL UI/ MONGODB/ MONGOOSE/ EXPRESS JS/ REDUX/ MYSQL
 
 - 🔭 I’m currently working on OmniHouse, London, UK. 
