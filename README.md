@@ -18,6 +18,8 @@ Skills: HTML / CSS/ JAVASCRIP T/ REACTJS/ NODEJS/ PYTHON/ BOOTSTRAP/ TAILWINDCSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=A-K-M-Fozlol-Hoq)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-K-M-Fozlol-Hoq)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=A-K-M-Fozlol-Hoq&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=A-K-M-Fozlol-Hoq)  
